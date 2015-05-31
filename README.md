@@ -4,6 +4,7 @@
 #####Software Development
 *  [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 *  [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
+*  [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
 
 #Not watched
 
@@ -24,7 +25,6 @@
 
 #####Object-Oriented Programming
 
-*  [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
 *  [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #####Functional Programming

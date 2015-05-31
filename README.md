@@ -4,6 +4,10 @@
 #####Software Development
 *  [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** [32:55]
 *  [Inventing on Principle](https://vimeo.com/36579366) by **Bret Victor** [54:20]
+
+#####Object-Oriented Programming
+
+*  [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 *  [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
 
 #Not watched
@@ -22,10 +26,6 @@
 *  [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
 *  [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
 *  [A short history of Software Engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM#t=1619) by **Paolo Perrotta** [36:35]
-
-#####Object-Oriented Programming
-
-*  [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 
 #####Functional Programming
 

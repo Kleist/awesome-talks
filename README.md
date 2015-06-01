@@ -13,6 +13,9 @@
 #####Functional Programming
 *  [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** [1:07:10]
 
+#####Web Development
+*  [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
+
 #Not watched
 
 
@@ -69,7 +72,6 @@
 *  [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** [36:30]
 *  [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]
 *  [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
-*  [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
 *  [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
 
 #####Test-Driven Development

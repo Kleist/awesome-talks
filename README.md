@@ -15,6 +15,7 @@
 
 #####Web Development
 *  [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
+*  [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 
 #Not watched
 
@@ -67,7 +68,6 @@
 *  [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford** [10:00:00]
 *  [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 *  [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
-*  [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 *  [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** [29:22]
 *  [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** [36:30]
 *  [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]

@@ -10,6 +10,9 @@
 *  [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** [27:29]
 *  [Functional is cool, but do you know OO](http://www.parleys.com/play/51aa0172e4b01033a7e4b67a/) by **Sandro Mancuso** [54:41]
 
+#####Functional Programming
+*  [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** [1:07:10]
+
 #Not watched
 
 
@@ -36,7 +39,6 @@
 *  [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** [39:24]
 *  [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** [56:24]
 *  [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** [1:06:53]
-*  [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** [1:07:10]
 *  [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** [1:49:10]
 *  [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** [1:03:40]
 

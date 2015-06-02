@@ -18,6 +18,7 @@
 *  [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 
 #####Software Design
+*  [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 *  [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 
 #####Test-Driven Development
@@ -54,7 +55,6 @@
 
 #####Software Design
 
-*  [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 *  [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
 *  [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [54:43]
 *  [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]

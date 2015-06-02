@@ -20,6 +20,9 @@
 #####Software Design
 *  [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
 
+#####Test-Driven Development
+
+*  [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 #Not watched
 
 
@@ -78,7 +81,6 @@
 
 #####Test-Driven Development
 
-*  [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** [1:00:37]
 *  [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** [1:00:33]
 *  [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** [33:44]
 *  [Is TDD Dead? - Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)** [30:28]

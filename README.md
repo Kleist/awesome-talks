@@ -20,6 +20,7 @@
 #####Software Design
 *  [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 *  [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** [26.25]
+*  [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 
 #####Test-Driven Development
 
@@ -68,7 +69,6 @@
 *  [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** [1:00:18]
 *  [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** [1:02:30]
 *  [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** [1:03:30]
-*  [Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** [26:04]
 
 #####Web Development
 
